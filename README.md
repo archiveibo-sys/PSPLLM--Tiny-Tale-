@@ -1,3 +1,5 @@
+Ya aslında ekran görüntüsü koyacaktım ama cihaz arkadaşta kalmış. bir iki screenshot koyacam.
+
 # PSP TinyTale LLM 🎮📖
 
 > ## ⚠️ Prerequisite — this part is on you
