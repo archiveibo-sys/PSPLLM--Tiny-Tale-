@@ -1,4 +1,5 @@
 Ya aslında ekran görüntüsü koyacaktım ama cihaz arkadaşta kalmış. bir iki screenshot koyacam.
+I had started the project with Fable 5. Then, during that time, it was banned, so I was forced to continue with OPUE 4.8; however, I had achieved the result I was aiming for.
 
 # PSP TinyTale LLM 🎮📖
 
